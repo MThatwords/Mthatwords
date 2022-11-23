@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="" />
+   <img align="center"  src="./banner-ricardo-github.png" />
    <h3 align="center">Hola,soy Ricardo !</h3>
    
   <div align="center">
@@ -8,31 +8,7 @@
     </a>
   </div>
 </p>
-Soy un entusiasta desarrollador full stack. Especializado en javascript siempre aumentando mis conocimientos en desarrollo web. 
-<h1>Te presento mis proyectos</h1>
-<div>
-<a href="">
- <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
-    </a>
-  <details>
-      <summary>
-        Gym web page
-      </summary>
-        Busca la receta mas saludable 
-  </details>
-</div>
-<br>
-<div>
-
- <a href=""><img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> </a>
-  <details>
-      <summary>
-       Food app
-      </summary>
-        Busca la receta mas saludable 
-  </details>
-</div>
-
+Soy Ricardo un entusiasta desarrollador Full stack que apasionado por aprender nuevas maneras de desarrollar mejores productos tecnológicos. He elaborado diferentes proyectos que puedes que te invito a revisar.
 
 <h2>Languages and tools:</h2>
  <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>   <img alt="Badge" style="float: left; margin-right: 10px;margin-bottom: 5px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;margin-bottom: 5px;" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>    <img alt="Badge" style="float: left; margin-right: 10px;margin-bottom: 5px;" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
