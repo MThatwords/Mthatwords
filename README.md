@@ -11,16 +11,16 @@
 Soy Ricardo un entusiasta desarrollador Full stack que apasionado por aprender nuevas maneras de desarrollar mejores productos tecnológicos. He elaborado diferentes proyectos que puedes que te invito a revisar.
 
 <h2>Languages and tools:</h2>
- ![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
- ![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)  
- ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 
- ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
- ![](https://img.shields.io/badge/tailwind%20-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white) 
- ![](https://img.shields.io/badge/Postgresql-royalblue.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-  ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
- ![](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
+![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
+![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)  
+![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 
+![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/tailwind%20-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white) 
+![](https://img.shields.io/badge/Postgresql-royalblue.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 
 <br>
 <br>
